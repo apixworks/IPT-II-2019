@@ -10,7 +10,7 @@
 3. Book chapter.
  - [Hands-on Machine Learning with Scikit-Learn and TensorFlow2 chapter 1,2,3 and 4](https://github.com/ageron/handson-ml2)
  - [Introduction to Machine Learning with Python A Guide for Data Scientists chapter 1, 2 and 4](https://github.com/amueller/introduction_to_ml_with_python)
- - [Deep Learning with Python by FRANÇOIS CHOLLET chapter 1 and 4]()
+ - [Deep Learning with Python by FRANÇOIS CHOLLET chapter 1 and 4](http://bioserver.cpgei.ct.utfpr.edu.br/disciplinas/eeica/papers/Livros/%5BChollet%5D-Deep_Learning_with_Python.pdf)
 4. Lab work
 
 ### Week 2: Deep learning and Computer Vision
