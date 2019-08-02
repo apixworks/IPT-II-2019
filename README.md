@@ -3,7 +3,6 @@
 ### Week 1: Machine learning fundamentals
 1. Basics of Python for ML and DS Project.
  - [Python for ML and DS](https://github.com/sambaiga/PytzMLS2018/tree/master/Python%20for%20ML%20and%20DS)
-  - [An introduction to Objects and their Classes in python](https://am207.github.io/2018spring/wiki/pythonlab.html)
 2. Selected MOOC & online courses. 
   - [Foundation of Machine Learning by sambaiga](https://speakerdeck.com/sambaiga/machine-learning-fundamentals)
   - [ML by Andrew Ng week 1, 2 and 3](https://www.coursera.org/learn/machine-learning#syllabus)
