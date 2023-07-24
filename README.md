@@ -1,4 +1,4 @@
-# Parrotai-ipt2019: Industrial training in machine learning and data science for CIVE students
+# Industrial training in machine learning and data science for CIVE students
 
 ### Week 1: Machine learning fundamentals
 1. Basics of Python for ML and DS Project.
